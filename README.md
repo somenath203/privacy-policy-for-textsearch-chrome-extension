@@ -7,6 +7,4 @@ https://somenath203.github.io/privacy-policy-for-textsearch-chrome-extension/
 
 Privacy Policy is required to publish chrome extension in Chrome Web Store.
 
-## Link to TextSearch Chrome Extension Project
 
-https://github.com/somenath203/TextSearch-Chrome-Extension
